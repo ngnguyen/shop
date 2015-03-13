@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>EN - Ecommerce blog by PrestaShop</title>
+	<atom:link href="http://www.prestashop.com/blog/en/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.prestashop.com/blog/en</link>
+	<description></description>
+	<lastBuildDate>Fri, 06 Mar 2015 15:44:52 +0000</lastBuildDate>
+	<language>en-US</language>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.8.1</generator>
+	<item>
+		<title>How to gather more emails for your online store</title>
+		<link>https://www.prestashop.com/blog/en/gather-emails-online-store/</link>
+		<comments>https://www.prestashop.com/blog/en/gather-emails-online-store/#comments</comments>
+		<pubDate>Thu, 05 Mar 2015 13:30:51 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19655</guid>
+		<description><![CDATA[<p>Today we welcome back Steve Chou, co-owner of Bumblebee Linens and MyWifeQuitHerJob.com. MyWifeQuitHerJob.com reaches over 200,000 monthly readers and has been featured in The New York Times and The Huffington Post. In his last blog post, he shared the importance of on-site search. Today he shares tips on how to gather more emails for your [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/gather-emails-online-store/">How to gather more emails for your online store</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Today we welcome back Steve Chou, co-owner of Bumblebee Linens and MyWifeQuitHerJob.com. MyWifeQuitHerJob.com reaches over 200,000 monthly readers and has been featured in <span style="font-style: italic">The New York Times</span> and <span style="font-style: italic">The Huffington Post</span>.</p>
+<p>In his last blog post, he shared the importance of <a href="https://www.prestashop.com/blog/en/4-essential-tips-to-improving-your-on-site-search-engine/">on-site search</a>. Today he shares tips on how to gather more emails for your online store. Let’s get started.</p>
+<p><span id="more-19655"></span><br />
+<img class="alignright size-full wp-image-19656" style="margin-right: 0" alt="Steve Chou" src="http://www.prestashop.com/blog/en/files/2015/03/1_steve.jpg" width="200" height="300" /></p>
+<p>The lifeblood of any online store is the ability to attract and retain repeat customers for your business. Now, there are many ways to entice customers to come back and shop at your store, but the most effective way is through email.</p>
+<p>By gathering email addresses, you gain a direct channel into the lives of your customers. And with the right email copy, you can turn a casual customer into a lifelong fan.</p>
+<p>But here&#8217;s the thing. After <a href="http://mywifequitherjob.com/how-to-open-an-online-store/" target="_blank">helping many ecommerce stores</a> with their email campaigns and running my own online business <a href="http://bumblebeelinens.com/" target="_blank">selling handkerchiefs</a> for many years now, I&#8217;ve discovered that very few online shop owners gather email and even fewer actually send regular emails to their customers. Today&#8217;s post will show you how to maximize email signups for your online store.</p>
+<h2 style="color: #ffb03a">Use a 3rd Party Email Provider</h2>
+<p>First off, if you are going to be collecting and sending emails to thousands of people, you absolutely need to use a 3rd party email marketing provider.</p>
+<p>Sending an occasional email here and there from your own server is fine, but when it comes to emailing thousands of recipients, your email deliverability will be horrible if you try to do it yourself.</p>
+<p>Email marketing services like <a href="http://addons.prestashop.com/en/advertising-marketing-newsletter-modules/18921-official-mailchimp-for-prestashop-16.html" target="_blank">MailChimp</a> or Aweber have hundreds of servers to make sure your email avoids the spam filters and is delivered in a timely manner. Plus, these services also offer essential tools to organize and manage all of your subscribers. Don&#8217;t be frugal with your business in this regard. Go with a professional.</p>
+<h2 style="color: #ffb03a">Collect Emails During Checkout</h2>
+<p style="text-align: center"><img class="aligncenter  wp-image-19657" alt="Check out sign up" src="http://www.prestashop.com/blog/en/files/2015/03/2_Checkoutsignup.jpg" width="480" height="338" /></p>
+<p>The most straightforward place to capture email addresses is during the checkout process. If a customer is willing to buy from you, then they are likely to buy from you again, so it&#8217;s important that you store their contact information appropriately.</p>
+<p>Many shop owners make the mistake of only capturing emails from customers who create a customer account. But you should also have a newsletter opt-in box for non-registered customers.</p>
+<p>Also, make sure that the emails you do collect get funneled straight to your email provider, as opposed to just your shopping cart database. Most shopping carts (including PrestaShop) offer built-in integrations with popular email marketing services like <a href="http://addons.prestashop.com/en/advertising-marketing-newsletter-modules/18921-official-mailchimp-for-prestashop-16.html" target="_blank">MailChimp</a>.</p>
+<h2 style="color: #ffb03a">Use a Lead Magnet</h2>
+<p>By default, most people are reluctant to sign up for a store newsletter or a mailing list unless they have something to gain from it. As a result, you have a much better chance of grabbing a newsletter signup if you offer an incentive or a lead magnet.</p>
+<p>For our online store, we offer a free ebook upon signup that teaches customers how to make creative arts and crafts projects with our products.</p>
+<p><img class="aligncenter size-full wp-image-19658" alt="ebook below" src="http://www.prestashop.com/blog/en/files/2015/03/3_ebookbelow.jpg" width="600" height="233" /></p>
+<p>This free giveaway not only provides value, but it also gives customers new use ideas for our products that encourage future purchases at our store. We also only offer coupon codes to people on our mailing list to create a sense of exclusivity.</p>
+<p>By offering a lead magnet, you can drastically increase the chances of a customer signing up for your newsletter.</p>
+<h2 style="color: #ffb03a">Don&#8217;t Be Afraid To Use Pop-Up Forms</h2>
+<p>Most people think that adding popup forms to their website will annoy potential customers. But I&#8217;ve found that most people who are against pop-ups have never tested them on their shops.<br />
+The pop-up form is the #1 highest converting signup form for our online store, and the customers who sign up convert at a very high rate. Here&#8217;s what our pop-up looks like.</p>
+<p><img class="aligncenter size-full wp-image-19659" alt="4_ebookpopup" src="http://www.prestashop.com/blog/en/files/2015/03/4_ebookpopup.jpg" width="600" height="332" /></p>
+<p>Even if you are against the idea, I encourage you to at least give it a try to test the results. If you are worried about annoying customers, then start by only adding the pop-up form on your content pages.</p>
+<p>For example, start by only including the pop-up form on your blog and see how it does. I can almost guarantee you that your email signup rate will at least double with a pop-up form and your bounce rate will not be measurably affected.</p>
+<p>The easiest way to add a sign-up form is to use a free service called <a href="http://sumome.com/" target="_blank">SumoMe.com.</a> It&#8217;s completely free and is compatible with all websites.</p>
+<h2 style="color: #ffb03a">Add More Email Signup Forms in Strategic Locations</h2>
+<p>Content rich sources on your website such as a blog are great places to entice customers to sign up for your newsletter. But most shop owners are not aggressive enough with their sign-up forms.</p>
+<p>If you are trying to actively add email subscribers to your mailing list, then make it obvious. The highest converting places to add sign-up forms are directly above and below your content.</p>
+<p>Here&#8217;s an example of how I add subtle sign-up forms above and below each one of my blog posts and they convert extremely well.</p>
+<p><img class="aligncenter size-full wp-image-19660" alt="5_ebookbyline" src="http://www.prestashop.com/blog/en/files/2015/03/5_ebookbyline.jpg" width="600" height="418" /></p>
+<p>And below the post</p>
+<p><img class="aligncenter size-full wp-image-19661" alt="6_ebooksignup" src="http://www.prestashop.com/blog/en/files/2015/03/6_ebooksignup.jpg" width="600" height="423" /></p>
+<h2 style="color: #ffb03a">Other Ways to Increase Email Signups</h2>
+<p>In addition to adding pop-up forms and sign-ups above and below your content, you can also add a slide-in. Slide-ins work great because as a customer is consuming your content or browsing your products, an animated form instantly grabs their attention.<br />
+If you are dead set against using a pop-up form on your website, then consider adding a slide-in instead. Slide-ins tend to be less annoying than pop-ups and can be set to only appear at the end of the page when you clearly know that you have your customer&#8217;s attention.<br />
+Here&#8217;s an example of a slide-in from my blog.</p>
+<p><img class="aligncenter size-full wp-image-19662" alt="7_slidein" src="http://www.prestashop.com/blog/en/files/2015/03/7_slidein.jpg" width="600" height="227" /></p>
+<h2 style="color: #ffb03a">Conclusion</h2>
+<p>Once you’ve collected an email address, the fun begins. At this point, you have the customer&#8217;s permission to send them targeted emails about your products and services.</p>
+<p>For our online store, we have a multi-step email auto-responder sequence set up that automatically emails customers at set intervals. In addition, whenever there&#8217;s a special event or sale, we can instantly reach thousands of eager customers just itching to shop at our online store.</p>
+<p>Sending regular emails also reminds customers that we exist, and we often tell stories about our personal lives to humanize our business. Once you have an email address, the possibilities for marketing are endless!</p>
+<p>But you need to take that first step and grab the email.</p>
+<hr align="left" width="20%" />
+<p>Which of these email gathering techniques are you going to try? Let us know how many new email subscribers you received in the comments below! Or, learn more about Steve’s blog by checking out <a href="http://mywifequitherjob.com/" target="_blank">MyWifeQuitHerJob.com</a> or by visiting his online store, <a href="http://bumblebeelinens.com/" target="_blank">BumbleBee Linens</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/gather-emails-online-store/">How to gather more emails for your online store</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/gather-emails-online-store/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Inspiration for Marketing: 4 Creative Ways to Reward your Customers</title>
+		<link>https://www.prestashop.com/blog/en/inspiration-marketing-4-creative-ways-reward-customers/</link>
+		<comments>https://www.prestashop.com/blog/en/inspiration-marketing-4-creative-ways-reward-customers/#comments</comments>
+		<pubDate>Thu, 05 Mar 2015 11:12:24 +0000</pubDate>
+		<dc:creator><![CDATA[Camille Sila]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19678</guid>
+		<description><![CDATA[<p>It’s great to convert visitors into buyers, but it’s even better when you convert buyers into loyal customers. Customer loyalty is less costly and easier to achieve than acquiring new customers, making it one of the most powerful levers in the development of a sustainable and profitable activity. Today, our focus is on rewards. We’ll [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/inspiration-marketing-4-creative-ways-reward-customers/">Inspiration for Marketing: 4 Creative Ways to Reward your Customers</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>It’s great to convert visitors into buyers, but it’s even better when you convert buyers into loyal customers. Customer loyalty is less costly and easier to achieve than acquiring new customers, making it one of the most powerful levers in the development of a sustainable and profitable activity.</p>
+<p>Today, our focus is on rewards. We’ll show you 4 ways to reward your customers without breaking the bank: small, simple gestures that make a difference.</p>
+<p><span id="more-19678"></span></p>
+<h2 style="color: #be2329">1. An Unexpected Gift</h2>
+<p>Here’s a great way to turn a virtual relationship into a very real experience.<br />
+Surprise your best customers by adding a small gift to their package. The element of surprise shows that you’re doing something “just because”, which has a greater chance of appealing to emotions. Your customers will surely appreciate this gesture, and may even spread the word about it.</p>
+<h4 style="color: #92d050;font-size: 20px">Archiduchesse</h4>
+<p style="text-align: center"><img class="aligncenter  wp-image-18400" alt="Archiduchesse" src="http://www.prestashop.com/blog/en/files/2015/03/Archiduchesse.jpg" width="384" height="288" /></p>
+<p><strong>The Idea</strong><br />
+Archiduchesse, the famous sock shop, has truly mastered this concept: they include candy and a logo sticker in packages.</p>
+<p><strong>The Result</strong><br />
+This small consideration makes the brand unforgettable and reinforces its “cool”.</p>
+<p>You may also have customers or fans with influence, or who have a large social media following. The impact can be even greater if they share this information.</p>
+<h4 style="color: #92d050;font-size: 20px">Taco Bell</h4>
+<p style="text-align: center"><img class="aligncenter  wp-image-18405" style="border: 1px solid #dce1e5" alt="Taco Bell" src="http://www.prestashop.com/blog/en/files/2015/03/Taco-Bell.png" width="337" height="457" /></p>
+<p><strong>The Idea</strong><br />
+The American fast food chain Taco Bell was spot on when it sent to each of its most influential fans two rings with the company name, one with “Taco” and the other with “Bell”, accompanied by a handwritten note.</p>
+<p><strong>The Result</strong><br />
+The privileged few recipients immediately tweeted about it with enthusiasm, thanking the brand. This had a positive impact on the brand’s visibility and image.</p>
+<h2 style="color: #be2329">2. Fan of the Month</h2>
+<p>One of the best ways to reward your customers is to shine the spotlight on them in one of your posts. For example, choose one of the most active fans on your Facebook page and show your gratitude with a post thanking the Fan of the Month. The advantage of doing this is that the only cost involved is your gratitude.</p>
+<h4 style="color: #92d050;font-size: 20px">Soda Stream</h4>
+<p style="text-align: center"><img class="aligncenter  wp-image-18404" alt="Soda stream" src="http://www.prestashop.com/blog/en/files/2015/03/Soda-stream.png" width="397" height="276" /></p>
+<p><strong>The Idea</strong><br />
+Each month, the brand Soda Stream changes the cover photo of its Facebook page to put the fan of the month in the spotlight. This only lasts a few months.</p>
+<p><strong>The Result</strong><br />
+It is a beautiful way to display the interest that the brand shows in its fans, and to encourage customers to stay loyal and interact more on the Facebook page.</p>
+<p>Facebook is not the only place where your customers can be recognized. You can also use your blog.</p>
+<h4 style="color: #92d050;font-size: 20px">BlackBerry</h4>
+<p style="text-align: center"><img class="aligncenter  wp-image-18401" style="border: 1px solid #dce1e5" alt="Black berry" src="http://www.prestashop.com/blog/en/files/2015/03/Black-berry.png" width="383" height="431" /></p>
+<p><strong>The Idea</strong><br />
+BlackBerry’s initiative goes further than just posting a picture as a thank you. It posts entire articles featuring its fans and their relationship with the brand.</p>
+<p><strong>The Result</strong><br />
+The articles are a way to further promote the values of the brand by bringing more credibility through customer testimonials.</p>
+<h2 style="color: #be2329">3. Your Customers’ Opinions Matter</h2>
+<p>Customers like to know that you’re genuinely taking their opinion into account. Launching a new product, redesigning your website and sharing new content are but a few examples of the many opportunities to ask customers for their opinion. What is certain is that listening to your customers is a key factor in building strong, authentic relationships with them. You can ask for their feedback on different platforms, and in a number of ways.</p>
+<p>On your blog&#8230;</p>
+<h4 style="color: #92d050;font-size: 20px">PrestaShop</h4>
+<p style="text-align: center"><img class="aligncenter  wp-image-18402" alt="blog PrestaShop" src="http://www.prestashop.com/blog/en/files/2015/03/blog-PrestaShop.png" width="534" height="400" /></p>
+<p><strong>The Idea</strong><br />
+We offered our readers the opportunity to fill out a survey on the topics they would like us to cover.</p>
+<p><strong>The Result</strong><br />
+This survey was easy to implement using a Google form and showed that we value our readers’ expectations. The results obtained allow us to post content that is of interest to our readers, thereby increasing loyalty.</p>
+<p>By email&#8230;</p>
+<h4 style="color: #92d050;font-size: 20px">Airbnb</h4>
+<p style="text-align: center"><img class="aligncenter  wp-image-18399" style="border: 1px solid #dce1e5" alt="airbnb" src="http://www.prestashop.com/blog/en/files/2015/03/airbnb.png" width="471" height="338" /></p>
+<p><strong>The Idea</strong><br />
+Airbnb sends an e-mail to ask customers’ opinion at the end of a stay booked using the app. The aim is to improve the user experience.</p>
+<p><strong>The Result</strong><br />
+Once again, there are two advantages: on one hand, customers truly feel that they are involved in product development and that their opinion is valued, and on the other hand, Airbnb will be able to offer even more relevant services.</p>
+<h2 style="color: #be2329">4. Say Thanks!</h2>
+<p>This may be the simplest advice, but it is also the one people forget about the most. A simple thanks costs nothing, yet it plays a major role in building a strong, loyal customer community. Again, there are numerous ways to thank your community, such as a thank-you e-mail following their subscription to the newsletter, and saying thank you over social media.</p>
+<h4 style="color: #92d050;font-size: 20px">Bloom’s</h4>
+<p style="text-align: center"><img class="aligncenter  wp-image-18403" alt="Bloom's" src="http://www.prestashop.com/blog/en/files/2015/03/Blooms.png" width="314" height="397" /></p>
+<p><strong>The Idea</strong><br />
+Bloom’s, a new online shop which sells boxes of seasonal flowers, is slowly growing its community. The company chose Christmas time to thank their customers for their orders and wish them a Merry Christmas.</p>
+<p><strong>The Result</strong><br />
+This very simple gesture is the sign of a more human brand. It’s essential for new companies to show this side when they are just starting out, as building a loyal customer base and fostering word of mouth are important first steps.</p>
+<h2 style="color: #be2329">[The toolbox] &#8211; Promoting Loyalty</h2>
+<p>Finally, make sure you do not rely solely on these one-off gestures. Offer your customers a complete loyalty program, which is more traditional but very effective to ensure their full satisfaction.</p>
+<p>Here are three modules which will allow you to add a loyalty program to your PrestaShop store in order to boost sales:</p>
+<ul style="padding-left: 30px">
+<li><a href="http://addons.prestashop.com/en/advertising-marketing-newsletter-modules/18137-loyaltylion.html" target="_blank">LoyaltyLion Module</a></li>
+<li><a href="http://addons.prestashop.com/en/advertising-marketing-newsletter-modules/16947-shopymind-abandoned-cart-reminder.html" target="_blank">All-in-one Rewards Module</a></li>
+<li><a href="http://addons.prestashop.com/en/advertising-marketing-newsletter-modules/16947-shopymind-abandoned-cart-reminder.html" target="_blank">ShopyMind Module</a></li>
+</ul>
+<hr align="left" width="20%" />
+<p>Which of these ideas do you plan to implement? Do you use other techniques to reward your customers? Tell us in the comments below!</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/inspiration-marketing-4-creative-ways-reward-customers/">Inspiration for Marketing: 4 Creative Ways to Reward your Customers</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/inspiration-marketing-4-creative-ways-reward-customers/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Online Payments 101:  What It Means to Accept Payments Online</title>
+		<link>https://www.prestashop.com/blog/en/online-payments-101-means-accept-payments-online/</link>
+		<comments>https://www.prestashop.com/blog/en/online-payments-101-means-accept-payments-online/#comments</comments>
+		<pubDate>Wed, 04 Mar 2015 13:30:44 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[PrestaShop Partners]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19650</guid>
+		<description><![CDATA[<p>There’s nothing quite like starting your own online business. The excitement. The optimism. The&#8230; online payment processing? If you want to turn a profit, you’ll need some kind of online payment processing. But unlike some things, the typical online payment services offered isn’t recommended for DIY devotees. That’s not to say you can’t process your [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/online-payments-101-means-accept-payments-online/">Online Payments 101:  What It Means to Accept Payments Online</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>There’s nothing quite like starting your own online business. The excitement. The optimism. The&#8230; online payment processing? If you want to turn a profit, you’ll need some kind of online payment processing. But unlike some things, the typical online payment services offered isn’t recommended for DIY devotees.</p>
+<p>That’s not to say you can’t process your own payments. If you want to set up a merchant banking account, build your own secure server, and make sure all your data storage and handling techniques meet strict compliance rules, by all means, have a go. If not, well, <a href="http://www.brinkscheckout.com/landing/prestashop/" target="_blank">Brink’s Checkout</a> is here to help.<br />
+<span id="more-19650"></span><br />
+<a href="http://www.brinkscheckout.com/landing/prestashop/" target="_blank"><img class="aligncenter size-full wp-image-19665" alt="Brinks Checkout" src="http://www.prestashop.com/blog/en/files/2015/03/logo_BRINKS_Checkout.png" width="156" height="55" /></a></p>
+<h2 style="color: #1e6263">How Does Online Payment Processing Work?</h2>
+<p>Imagine your online payment is a paper check. When you click ‘buy’ on a website, it’s like you’re giving your paper check to a guy behind a desk. He walks it back to another office, where a girl calls your bank and finds out if you have the funds to cover the check. She also verifies your identity. Your bank transfers money to the seller’s bank, and calls the girl to tell her. She relays the massage to the guy behind the desk, he tells you, and you get to download your 99-cent eBook.</p>
+<p>Sound complicated? It is.</p>
+<p>When you buy an item, the transaction starts through the payment gateway. The gateway then contacts the payment processor, who contacts your merchant account and the issuing credit card network. Depending on the card, transactions are either authorized by the network or by the cardholder’s issuing bank. Once the authorization is either accepted or declined, your merchant account is notified and the payment processor is notified as well. Funds are delivered, goods are sent on their way, and all is well.</p>
+<h2 style="color: #1e6263">Getting to Know the Key Parts of Online Payment Processing</h2>
+<p>To manage an efficient and secure online payment processing service, you need several key components, including:</p>
+<ul style="padding-left: 30px">
+<ol style="padding-left: 0">1. A Payment Gateway</ol>
+<ol style="padding-left: 0">2. A Payment Processor</ol>
+<ol style="padding-left: 0">3. A Merchant Account</ol>
+<ol style="padding-left: 0">4. An Online Shopping Cart</ol>
+<ol style="padding-left: 0">5. Some Means of Fraud Prevention</ol>
+<ol style="padding-left: 0">6. PCI Compliance</ol>
+<ol style="padding-left: 0">7. Professional-grade Security</ol>
+<ol style="padding-left: 0">8. And other components if the goal is complex sales such as international and recurring ones</ol>
+</ul>
+<p>But what are these? Let’s take them one at a time.</p>
+<ul style="padding-left: 30px">
+<li>An <strong>online shopping cart</strong> is the link between your goods and your customers. It’s also where the payment process starts. Shopping carts and payment services must be integrated to work well together. Once the checkout button is clicked, the shopping cart has done its job. It’s on to the payment gateway.</li>
+<li>The <strong>payment gateway</strong> is like the guy behind the desk. It’s the job of the payment gateway to handle the transaction securely and effectively, sending encoded information from the website to your payment processor.</li>
+<li><strong>Payment processors</strong> manage the communication between your merchant account (basically, a holding account for credit card transactions) and the credit card network. Much like the girl in the office, the payment processor is the middle man between the paying account and the receiving account.</li>
+<li><strong>Fraud prevention</strong> and <strong>professional-grade security</strong> are the most technical pieces of the puzzle. To combat identity theft, online payment processing service rely on a bevy of safeguards, including industry-leading data storage and encryption techniques, order behavior analysis, and complex security algorithms. By law, credit card processors have to meet strict compliance regulations.</li>
+</ul>
+<p>Selling your wares online is nothing to be afraid of. With the right payment processing partner managing your transactions, you don’t have to worry about legal compliance and time-consuming tech issues. Via <a href="http://www.brinkscheckout.com/landing/prestashop/" target="_blank">Brink’s Checkout</a>, PrestaShop clients can have all of these components in a single place without requiring technical expertise to start selling. You can relax and manage the front end of your store, knowing that the payment processes are in the hands of the pros.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/online-payments-101-means-accept-payments-online/">Online Payments 101:  What It Means to Accept Payments Online</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/online-payments-101-means-accept-payments-online/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Don&#8217;t forget the market in marketing</title>
+		<link>https://www.prestashop.com/blog/en/dont-forget-market-in-marketing/</link>
+		<comments>https://www.prestashop.com/blog/en/dont-forget-market-in-marketing/#comments</comments>
+		<pubDate>Tue, 03 Mar 2015 16:29:47 +0000</pubDate>
+		<dc:creator><![CDATA[Shabbir Nooruddin (Guest Contributor)]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19668</guid>
+		<description><![CDATA[<p>Marketing is a critical part of any successful ecommerce business. While a multi-pronged approach is necessary for marketing any store, it’s crucial to first focus on your target market. Knowing who makes up this target market will help you get your message to them across all marketing channels &#8211; PPC, SEO, social media, email, affiliate, [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/dont-forget-market-in-marketing/">Don&#8217;t forget the market in marketing</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Marketing is a critical part of any successful ecommerce business. While <a href="http://bootstrappingecommerce.com/ecommerce-marketing-strategies/" target="_blank">a multi-pronged approach</a> is necessary for marketing any store, it’s crucial to first focus on your target market. Knowing who makes up this target market will help you get your message to them across all marketing channels &#8211; PPC, SEO, social media, email, affiliate, and any others you might target.</p>
+<p>In this post, I’m introducing you to customer personas and the process of identifying your ideal customer to better focus your marketing efforts.<br />
+<span id="more-19668"></span></p>
+<h2 style="color: #3a7692">Finding out who your customer is</h2>
+<p>You must have heard the old marketing adage: “If everyone is your customer, then no one is.” Even though you may have your niche selected and very tightly defined, it’s important to know who exactly you’re selling to.</p>
+<p>If you know who this is, you can tailor your marketing messages and content specifically to them. This doesn’t mean you exclude anyone else, just that you focus more energy on one group in particular.</p>
+<p>There are two main strategies to discover your ideal customer:</p>
+<h2 style="color: #3a7692">1. Make up a persona before you start, then polish it as you gain insight.</h2>
+<p>Let’s say you sell fancy men’s bowties. Your initial customer persona might be:</p>
+<p>Male, 25-35 years old, unmarried, professional, has a strong sense of fashion, and makes over $50,000 per year.</p>
+<p>This is a good starting place. To tailor your messages to these customers, you would focus on themes like men’s fashion and use language that appeals to this age group and inclination. You can also position yourself in places where these people are most likely to spend their time. Which types of blogs do they read? What websites do they visits first?</p>
+<h2 style="color: #3a7692">2. Create a specific persona based on a niche product, and embellish as you go.</h2>
+<p>If you sell something much more specific, like superhero wedding cake toppers, then your audience is going reflect that. You know that these are people who like superheroes, probably have a background in science or technology (the geek factor), and are engaged to be married.</p>
+<p>You can see how this is already a more targeted audience than our bow-tie wearing professionals. This will shape your marketing. To build a more complete persona, you’ll use sales data to continually refocus and refine the words you use and the strategy you put in place.</p>
+<h2 style="color: #3a7692">Using Facebook ads to reach your audience</h2>
+<p>A quick way to get customers (or customer profiles, at least) is to use Facebook custom audiences.</p>
+<p>To start, <a href="http://www.socialmediaexaminer.com/facebook-news-feed-ads/" target="_blank">set up Facebook ads</a> targeting the fans and followers of just one of your larger competitors. Your ads will be shown only to people who have liked your competitor. They target the same customers you are, so this is a good place to start.</p>
+<p>Next, on your own site, you’ll set up a <a href="https://developers.facebook.com/docs/ads-for-websites/website-custom-audiences/getting-started" target="_blank">Facebook custom audience tracking pixel</a>. Facebook will use this pixel to track who visited your site, and then attempt to create an audience who you can run more targeted ads to.</p>
+<p>You might also consider running a survey on your landing page. Offer a gift card or run a contest in exchange for answers to a few specific questions (2 or 3 maximum). Use the information you collect to help hone your audience even further.</p>
+<h2 style="color: #3a7692">Stores that hit the bull’s eye</h2>
+<p>Here are a few examples of online store owners who successfully identified their ideal customers by focusing on specific needs and adapting their marketing accordingly.</p>
+<p><a href="http://www.ecommercefuel.com/" target="_blank">Andrew Youderian of Ecommerce Fuel</a> used to run a store where he sold trolling motors. At first, he sold all types of trolling motors, but eventually he realized that most of his sales were of higher end motors. So when he redesigned his site, he targeted the whole thing to focus on higher end motors and saw his conversion rates rise.</p>
+<p>He runs another store that sells CB radios. He realized that most of his customers were using CB radios for 4 x 4 pickup trucks, so he <a href="http://www.ecommercefuel.com/ecommerce-website-design/" target="_blank">repositioned that store to reflect this more specific use</a>.</p>
+<p>Similarly, <a href="http://bootstrappingecommerce.com/picking-the-right-niche/" target="_blank">the founders of Drones Etc. realized</a> that their products would appeal not only to hobbyists but also to real estate agents who could use their drones to survey and photograph properties. A little research showed that the target market “real estate agent” was untapped, so they focused their efforts there &#8211; and saw brilliant results.</p>
+<h2 style="color: #3a7692">Conclusion</h2>
+<p>I hope it’s clear how important it is to define your target audience, even if the first try is more of an estimation. Your customer persona will evolve as your business grows, so don’t let a little uncertainty in the beginning stop you from testing your ideas.</p>
+<p>As you start to narrow down our market, keep the following in mind:</p>
+<ul style="padding-left: 30px">
+<li>When everyone is your customer, no one is your customer.</li>
+<li>Use research, Facebook and sales data to create your first customer personas</li>
+<li>Don’t be afraid to start with a simple persona and tweak it as your business grows</li>
+<li>Targeted Marketing is more successful than vague generalities</li>
+</ul>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/dont-forget-market-in-marketing/">Don&#8217;t forget the market in marketing</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/dont-forget-market-in-marketing/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>10 questions every entrepreneur should ask before starting an ecommerce business</title>
+		<link>https://www.prestashop.com/blog/en/10-questions-every-entrepreneur-should-ask-before-starting-an-ecommerce-business/</link>
+		<comments>https://www.prestashop.com/blog/en/10-questions-every-entrepreneur-should-ask-before-starting-an-ecommerce-business/#comments</comments>
+		<pubDate>Thu, 26 Feb 2015 15:50:43 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19539</guid>
+		<description><![CDATA[<p>The great thing about ecommerce is that you can start a business anywhere in the world once you pin down just the right idea or product. And with PrestaShop, you can do it right now, for free. But before launching any new business, there are a few big questions you should consider&#8230; PrestaShop was at [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/10-questions-every-entrepreneur-should-ask-before-starting-an-ecommerce-business/">10 questions every entrepreneur should ask before starting an ecommerce business</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The great thing about ecommerce is that you can start a business anywhere in the world once you pin down just the right idea or product. And with PrestaShop, you can do it right now, for free. But before launching any new business, there are a few big questions you should consider&#8230;</p>
+<p>PrestaShop was at the Salon des Entrepreneurs in Paris early February, where an estimated 65,000 future business owners came to learn from some of the world’s most successful startups and industry leaders. The PrestaShop stand was crowded with visitors who came to learn about the new fully-hosted <a href="https://www.prestashop.com/">PrestaShop Cloud</a>, our ecommerce solution that allows anyone to create an online boutique in just a few clicks. In addition to answering questions about our free platform, our in-house expert Christophe Bernon went over some of the fundamentals of setting up an online store during two well-attended workshops.<br />
+<span id="more-19539"></span><br />
+Here are the ten questions he recommends asking yourself if you’re thinking of opening an online store.</p>
+<h2 style="color: #366581"><img style="margin-right: 2px" alt="icon" src="http://www.prestashop.com/blog/en/files/2015/02/name.png" width="50" height="50" /> What domain name should I choose?</h2>
+<p>The domain name you choose will have an impact on how much traffic your site attracts. Consider a keyword-rich domain name inspired by words related to your products or sector, or a brand-based domain name. A coherent strategy will help you to quickly build traffic flow from search engines. <a href="https://www.prestashop.com/blog/en/how-to-pick-the-right-domain-name-for-your-online-store/">Read on to learn more about choosing your domain name</a>.</p>
+<h2 style="color: #366581"><img style="margin-right: 2px" alt="icon" src="http://www.prestashop.com/blog/en/files/2015/02/hosting.png" width="50" height="50" /> How do I choose a hosting provider?</h2>
+<p>Hosting is essential and comes in two varieties: shared and dedicated. If you’re just starting out and you only have a few dozen products, you might want to start with a shared host to keep costs down and migrate to a dedicated host with more capacity (and therefore speed) when you grow. You could, for example, start with the fully hosted <a href="https://www.prestashop.com/">PrestaShop Cloud</a>. There are a few other things to consider that can help make the decision easier: speed, customer service, storage, domains and security. <a href="https://www.prestashop.com/blog/en/how-to-choose-an-ecommerce-web-hosting-provider-for-your-online-store/">Read more about choosing a hosting partner</a>.</p>
+<h2 style="color: #366581"><img style="margin-right: 2px" alt="icon" src="http://www.prestashop.com/blog/en/files/2015/02/payment.png" width="50" height="50" /> What payment options do I need to offer?</h2>
+<p>Checkout is one of the most important elements of the shopping experience. Trust plays a major role: you need to make your customers feel safe and secure when they get ready to pay. If you’re just starting out, integrated payment solutions that people know and trust&#8211;like PayPal are a safe bet. As you grow and learn more about customers’ payment preferences, you can add more options. <a href="https://www.prestashop.com/en/set-up-payment-module">Find out how to create a positive payment experience</a>.</p>
+<h2 style="color: #366581"><img style="margin-right: 2px" alt="icon" src="http://www.prestashop.com/blog/en/files/2015/02/shipping.png" width="50" height="50" /> What about shipping and logistics?</h2>
+<p>It’s pretty easy to put a personal touch on packaging and shipping when you’re just starting out. But as you grow&#8211;and you will!&#8211;you’ll need to think about automating inventory and order management, and streamlining shipping, to save time and money. Most merchants start out by packing up and sending out products on their own. Then as their business grows, many outsource to logistics companies. If you opt for dropshipping, be sure you spend time reworking product data sheet information into original content. Otherwise your store will sound just like every other store who uses the same provider… Eventually, the cost of outsourcing may come to outweigh the benefits; that’s when hiring someone dedicated to managing logistics in-house becomes interesting. <a href="https://www.prestashop.com/blog/en/professionally-manage-logistics-for-your-online-store/">Get advice on managing logistics</a>.</p>
+<h2 style="color: #366581"><img style="margin-right: 2px" alt="icon" src="http://www.prestashop.com/blog/en/files/2015/02/communication.png" width="50" height="50" /> How do I get people to notice my site?</h2>
+<p>You’ve set up your store and everything is in place. Now how do you drive that famous “traffic”? In addition to optimizing your site content for SEO, consider starting a blog that you’ll update regularly&#8211;consistent content is key to any marketing and communication strategy. Don’t forget about social networks&#8211;they’re great places to learn about your customers and stay in the conversation. Revisit your site content often, updating product descriptions, adding new products or categories and highlighting best sellers. Your ecommerce business is alive and growing- your online store should be too. <a href="https://www.prestashop.com/blog/en/the-5-ultimate-ways-drive-new-traffic-online-store/">Learn five fool-proof tips for increasing visibility</a>.</p>
+<h2 style="color: #366581"><img style="margin-right: 2px" alt="icon" src="http://www.prestashop.com/blog/en/files/2015/02/user.png" width="50" height="50" /> How do I create customer loyalty?</h2>
+<p>Once you start attracting customers, you’ll have to think about how to keep them coming back: cultivate a positive relationship by making it easy for customers to get in touch and providing attentive service. Your before and after sales service should reflect your overall philosophy. And if someone is unhappy, don’t ignore them&#8211;word travels fast on the web. <a href="https://www.prestashop.com/blog/en/the-best-ways-to-build-customer-loyalty-for-your-online-store/">Read on for advice about building customer loyalty</a>.</p>
+<h2 style="color: #366581"><img style="margin-right: 2px" alt="icon" src="http://www.prestashop.com/blog/en/files/2015/02/exchangereturn.png" width="50" height="50" /> How do I handle exchanges and returns?</h2>
+<p>How you handle the return and exchange process tells your customers a lot about your business ethics. Build trust and avoid legal disputes by having a clear policy that addresses: what can and cannot be returned; refund amount; where products should be returned to; the return period; exchange conditions; and any special conditions (such as sales). <a href="https://www.prestashop.com/blog/en/the-anatomy-of-ecommerce-return-policies/">Learn how to create a clear exchange and return policy</a>.</p>
+<h2 style="color: #366581"><img style="margin-right: 2px" alt="icon" src="http://www.prestashop.com/blog/en/files/2015/02/plateform.png" width="50" height="50" /> What&#8217;s an ecommerce platform and how do I get one on a small budget?</h2>
+<p>An ecommerce platform is a software solution that allows you to create an online store. With PrestaShop Cloud, you can create your online store in just a few clicks and for free. Just visit the <a href="https://www.prestashop.com/">PrestaShop website</a> and enter your domain name and email address. Our goal has always been to remove the technical and financial barriers to creating a business online by giving all entrepreneurs access to a free, easy-to-use solution that they can get started with right away. <a href="https://www.prestashop.com/blog/en/ecommerce-101-25-terms-every-online-merchant-should-know/">Learn some ecommerce lingo</a> then <a href="https://www.prestashop.com/">start your own store</a>.</p>
+<h2 style="color: #366581"><img style="margin-right: 2px" alt="icon" src="http://www.prestashop.com/blog/en/files/2015/02/headset2.png" width="50" height="50" /> What if I need help?</h2>
+<p>PrestaShop offers a number of support packages that can help you develop your online store. We’re also partners with more than <a href="https://www.prestashop.com/en/web-agency-partners">150 web agencies and freelance developers</a>, who would be happy to help you create a successful ecommerce business.</p>
+<h2 style="color: #366581"><img style="margin-right: 2px" alt="icon" src="http://www.prestashop.com/blog/en/files/2015/02/rocket.png" width="50" height="50" /> How can I get started?</h2>
+<p>PrestaShop just launched an <a href="http://ebusinessplan.prestashop.com/" target="_blank">eBusiness Plan Competition</a>: send us your business idea and enter to win one of five prizes that will help you launch your online business with <a href="https://www.prestashop.com/">PrestaShop Cloud</a>. So what are you waiting for? Send us your big idea! Deadline: 6<sup>th</sup> of March 2015.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/10-questions-every-entrepreneur-should-ask-before-starting-an-ecommerce-business/">10 questions every entrepreneur should ask before starting an ecommerce business</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/10-questions-every-entrepreneur-should-ask-before-starting-an-ecommerce-business/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Google Analytics 101: What’s the hype with Google Analytics?</title>
+		<link>https://www.prestashop.com/blog/en/google-analytics-101-whats-hype-google-analytics/</link>
+		<comments>https://www.prestashop.com/blog/en/google-analytics-101-whats-hype-google-analytics/#comments</comments>
+		<pubDate>Wed, 25 Feb 2015 13:30:16 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[PrestaShop Partners]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19572</guid>
+		<description><![CDATA[<p>If you’re in ecommerce, you’ve probably heard of Google Analytics (GA) from either your developer, designer or even through one of our newsletters. GA is one of the most powerful tools online and one thing that makes them so popular is that the standard version of their product is completely free to use. It’s the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/google-analytics-101-whats-hype-google-analytics/">Google Analytics 101: What’s the hype with Google Analytics?</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>If you’re in ecommerce, you’ve probably heard of Google Analytics (GA) from either your developer, designer or even through one of our newsletters. GA is one of the most powerful tools online and one thing that makes them so popular is that the standard version of their product is completely free to use. It’s the reason we integrated their functionality into the PrestaShop ecommerce software.</p>
+<p>You’re probably thinking, all that sounds good, but the question still remains, “What exactly is Google Analytics?” Today we’ll explain Google Analytics in plain English, without using any tech-y acronyms.</p>
+<p><span id="more-19572"></span></p>
+<h2 style="color: #f7981d">Google Analytics helps you understand the customer journey.</h2>
+<p>Installing GA on your online store allows you to see your customer’s actions online. In the retail world, it would be similar to a having a dedicated sales associate watch and record what each customer does in your shop. What they could write is, “A female, 25-30 years old, enters the shop at 3:00PM, walks up to the new blue display, examines 3 items and walks straight to the counter and purchases all of them.”</p>
+<p>Google Analytics reports on the links your customers click. Using our previous example, GA will report that the customer clicked the blue image, landed in that category, browsed 3 products, and then checked out, spending 5 minutes on your website. Google Analytics also provides basic demographic information about your customers such as age and gender and detailed information like the amount of time a customer spends looking at each individual item.</p>
+<p>GA allows you to gain insight into customer activity even before they enter your website. This lets you know exactly where your customers come from, giving you a better perspective on how customers find your site.</p>
+<h2 style="color: #f7981d">Google Analytics converts data into information.</h2>
+<p>If you look at your data, you know how each person moves through your website. But so what? Do you care if one customer who clicked on your blue image stays on your website for 5 minutes? The answer is no. Without benchmarks to compare this one instance to, the data isn’t meaningful because it doesn’t tell you anything new about your shop.</p>
+<p>GA takes all the data collected and processes it into information about your website. They provide information like the average time a customer spends on your website by adding up the total amount of time all customers spend on your website, dividing it by the number of visitors. With that information you can determine if a person who spend 5 minutes on your shop is there longer or shorter than your typical shopper.</p>
+<p>Some of the information provided by Google Analytics:</p>
+<ul style="padding-left: 30px">
+<li>Visitor traffic over period of time</li>
+<li>Ratio between returning and new visitors</li>
+<li>Which sources bring the most amount of traffic</li>
+<li>Leads from social media campaigns</li>
+<li>Products that get added to carts most</li>
+<li>Customer shopping behavior</li>
+</ul>
+<h2 style="color: #f7981d">Google Analytics helps you make smart decisions.</h2>
+<p>With Google Analytics you can find statistics and information concerning just about anything related to your website. However, not all information is relevant. For example, if you’re an online merchant selling within the United States, you’re probably not interested in the 3 visitors from Brazil. Of the visitors from the United States, you may be interested in knowing which pages brought them to your website and maybe even which state they are browsing from.</p>
+<p>By setting up GA, you can create reports that consolidate only the information you’re interested in at a specific time. You can create a marketing report that tracks incoming traffic and a separate financial report that includes only traffic originating from specific Google AdWords campaigns. Each report will tell you just the information you need at a given time. Once you’re ready to get started, check out this blog post for <a href="https://www.prestashop.com/blog/en/10-essential-ecommerce-metrics-for-google-analytics/">10 essential ecommerce metrics for Google Analytics</a>.</p>
+<h2 style="color: #f7981d">Google Analytics helps you sell more.</h2>
+<p>Ecommerce websites are more complex than non-transactional websites, making tracking customer activity also more complex. In a recent release, GA introduced <a href="https://support.google.com/analytics/answer/6014841?hl=en&amp;ref_topic=6014839" target="_blank">enhanced ecommerce</a>. You can now monitor shopping habits by tracking how customers browse products, add items to their carts, and, most importantly, complete purchases.</p>
+<p><a href="http://analytics.blogspot.com/2014/11/brian-gavin-diamonds-sees-60-increase.html" target="_blank">Enhanced Ecommerce in Google Analytics</a> gives you insights including:</p>
+<ul style="padding-left: 30px">
+<li>Average number of products in each order</li>
+<li>Average value of each transaction</li>
+<li>Last page visited before a purchase is made</li>
+<li>The effectiveness of cross-sell and up-sell suggestions</li>
+<li>Clicks on internal promotions or banners</li>
+</ul>
+<h2 style="color: #f7981d">Google Analytics in a Nutshell</h2>
+<p>Google Analytics collects and processes your website data into useful and targeted information you can use to make smarter business decisions to increase your sales.</p>
+<hr align="left" width="20%" />
+<p>Now that we’ve demystified Google Analytics, it’s your turn to start tracking customer activity on your online store. If you don’t already have the <a href="http://addons.prestashop.com/en/analytics-stats-prestashop-modules/4168-ganalytics.html" target="_blank">Google Analytics Module</a> installed, download it today. Then get started by <a href="https://www.prestashop.com/blog/en/how-to-use-google-analytics-to-improve-marketing-for-your-online-store/">using Google Analytics to improve marketing for your online store</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/google-analytics-101-whats-hype-google-analytics/">Google Analytics 101: What’s the hype with Google Analytics?</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/google-analytics-101-whats-hype-google-analytics/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>The 5 benefits of selling digital products online</title>
+		<link>https://www.prestashop.com/blog/en/5-benefits-selling-digital-products-online/</link>
+		<comments>https://www.prestashop.com/blog/en/5-benefits-selling-digital-products-online/#comments</comments>
+		<pubDate>Wed, 18 Feb 2015 13:30:21 +0000</pubDate>
+		<dc:creator><![CDATA[Magali Ferber]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19568</guid>
+		<description><![CDATA[<p>Games, ebooks, movies, music, graphic designs and computer applications&#8211;these are just a few of the things you can now purchase online as digital products. We’ve invited Jimena Diaz de Vivar, owner of the PrestaShop store Dulzura de papel, to share her experience selling graphic design templates for themed party printables such as invitations, posters, napkins [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/5-benefits-selling-digital-products-online/">The 5 benefits of selling digital products online</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Games, ebooks, movies, music, graphic designs and computer applications&#8211;these are just a few of the things you can now purchase online as digital products. We’ve invited Jimena Diaz de Vivar, owner of the PrestaShop store <a href="http://dulzuradepapel.com/" target="_blank">Dulzura de papel</a>, to share her experience selling graphic design templates for themed party printables such as invitations, posters, napkins and food presentation details.<br />
+Read the five benefits she shared with us if you’re considering selling your digital creations online&#8211;it might just be the perfect move for your business.<br />
+<span id="more-19568"></span></p>
+<h2 style="color: #b23485">Unlimited Stock</h2>
+<p>Digital products have the unique advantage of never going “out of stock.” As long as a customer is interested in buying the product, you have a chance to make the sale.</p>
+<p>But this doesn’t mean your products will last forever; they eventually become obsolete, just like any other product. For example, Jimena updates graphic designs for her online shop every season to reflect new trends. It’s important to keep refreshing your product selection and stay up to date with your customers’ needs.</p>
+<h2 style="color: #b23485">Low Costs</h2>
+<p>Inventory costs can be as high as 75% of a product’s retail price. However, if you create your digital product on your own&#8211; let’s say you write a book and then sell it online&#8211;your inventory cost drops to $0. This significantly decreases the cost of starting your online store.</p>
+<p>However, decreasing the cost of your inventory isn’t the only way you can save money. Without physical inventory, you also eliminate costs like shipping, storage and warehouse management.</p>
+<h2 style="color: #b23485">International Markets</h2>
+<p>Unlike physical products, digital products don’t have barriers such as customs or shipping restrictions. When you sell downloadable products, it doesn’t matter how far away your customers are&#8211;you can reach anyone anywhere as long as they have internet access. “You can reach millions of potential customers that are thousands of kilometers away from you,” says Jimena.</p>
+<p>International and domestic orders are very similar. Jimena says, “PrestaShop simplifies selling internationally, with geo-localization by IP addresses to adjust your shop’s currencies and multi-language pages with their corresponding payment methods; everything is done for you!”</p>
+<h2 style="color: #b23485">Flexible Work Schedule</h2>
+<p>Owning your own business certainly gives you a lot of freedom. But when you sell physical products, you are automatically limited by your office’s location and hours of operation. For example, when a sale comes through, orders must be picked up, packed and labeled before the end of the business day to ensure timely shipping.</p>
+<p>Digital goods don’t have these limitations. You can set your own schedule and work whenever and wherever you want. A customer’s order is virtually “shipped” to them, automatically. This is all possible with an automated system, which leads us to the next benefit.</p>
+<h2 style="color: #b23485">Automated System</h2>
+<p>The PrestaShop software can be configured so that products are emailed or available for download automatically after each purchase. All merchants have to do is ensure the system is working properly. “What motivated me to create Dulzura de Papel was the flexibility I could have with an online store. Once everything is set up and the store functions well, you’re done. Products get sold on their own,” says Jimena.</p>
+<h2 style="color: #b23485">Key takeaways</h2>
+<ul style="padding-left: 30px">
+<li>Never run out of stock with digital goods</li>
+<li>Benefit from lower inventory, shipping and warehouse costs</li>
+<li>Reach international markets with less hassle</li>
+<li>Work wherever and whenever you want</li>
+<li>Automated functions make selling easier</li>
+</ul>
+<p>Are you ready to start selling digital products online with PrestaShop? Check out <a href="http://www.matthewwoodward.co.uk/tutorials/sell-digital-products-online-prestashop/" target="_blank">this tutorial video series</a> created by Matthew Woodward. The series will walk you through the entire process of setting up your own digital online shop.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/5-benefits-selling-digital-products-online/">The 5 benefits of selling digital products online</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/5-benefits-selling-digital-products-online/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>3 Must-Have Features in a great Payment Processor</title>
+		<link>https://www.prestashop.com/blog/en/3-must-features-great-payment-processor/</link>
+		<comments>https://www.prestashop.com/blog/en/3-must-features-great-payment-processor/#comments</comments>
+		<pubDate>Tue, 17 Feb 2015 13:30:01 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[PrestaShop Partners]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19576</guid>
+		<description><![CDATA[<p>As more and more customers being shopping online, ecommerce websites have popped up to support those shoppers. From monthly subscription boxes to homemade products, all types of online shops have opened. And with each shop that opens, a new need is created – one for industry related services. Payment processing is one example of those [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/3-must-features-great-payment-processor/">3 Must-Have Features in a great Payment Processor</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>As more and more customers being shopping online, ecommerce websites have popped up to support those shoppers. From monthly subscription boxes to homemade products, all types of online shops have opened. And with each shop that opens, a new need is created – one for industry related services. <a href="http://www.forbes.com/sites/hardeepwalia/2012/11/21/black-friday-puts-payment-processing-stocks-into-focus/" target="_blank">Payment processing</a> is one example of those services. Today there are countless payment processors to choose from. But how do you know what to look for? To help you narrow down your options, we share the 3 must-have features in a great payment processor.</p>
+<p><span id="more-19576"></span></p>
+<h2 style="color: #f69000"><a style="text-decoration: underline;color: #f69000;font-family: 'Roboto Condensed',Tahoma,Verdana,sans-serif;font-size: 28px;font-weight: bold" href="https://www.prestashop.com/blog/en/prestashop-uncovers-future-mobile-commerce/" target="_blank">Mobile Optimized</a> Payment Page</h2>
+<p>Did you know that in 2012, <a href="http://www.mobilecommercedaily.com/2012/07/10/mobile-payment-use-nearly-doubles-in-a-year-report" target="_blank">34% of mobile owners</a> made a purchase using their mobile device? It shows that mobile customers are not only browse and research products, but make and complete purchases. To convert these on-the-go shoppers, you need a mobile-optimized payment page.</p>
+<p>If your payment processor hosts your payment page, be sure that the design on the page matches your website. It should include your logo, featured colors and carry the same voice.</p>
+<h2 style="color: #f69000">Integrated <a style="text-decoration: underline;color: #f69000;font-family: 'Roboto Condensed',Tahoma,Verdana,sans-serif;font-size: 28px;font-weight: bold" href="http://www.realexpayments.com/images/resources/Fraud_Management.pdf" target="_blank">Fraud Prevention Tools</a></h2>
+<p>Fraud can take many forms but for online merchants, the most common type is chargebacks from unauthorized credit card use. Chargebacks hurt your shop because you take a loss for the product you shipped, must refund the original amount charged, and pay chargeback fees.</p>
+<p>It’s why great payment processors offer a free suite of fraud prevention tools. They are security features that ensure shoppers are the authorized users for the credit card. Great payment processors have a combination or all of the following:</p>
+<ul style="padding-left: 30px">
+<li><strong>3D Secure</strong> – more popularly known as Verified by Visa, Mastercard SecureCode and American Express Safekey. It allows payment processors to verify a cardholder’s identity through a separate passcode associated with the customer’s card.</li>
+<li><strong>Transactional Screening</strong> – compares translation data like IP addresses against your whitelisted and backlisted customers.</li>
+<li><strong>Data Sanity Checking</strong> – compares certain fields in the transaction against other fields, such as billing versus shipping addresses.</li>
+<li><strong>Data Pattern Checking</strong> – reviews data in your transaction against previous transactions</li>
+<li><strong>Card Verification Number (CVN)</strong> – verifies the 3 digit number on the back of the card matches with the issuing bank.</li>
+<li><strong>Address Verification Service (AVS)</strong> – Verifies billing information with the issuing bank.</li>
+</ul>
+<h2 style="color: #f69000"><a style="text-decoration: underline;color: #f69000;font-family: 'Roboto Condensed',Tahoma,Verdana,sans-serif;font-size: 28px;font-weight: bold" href="http://www.realexpayments.com/images/resources/Recurring_Payments.pdf" target="_blank">Recurring Billing</a> or Recurring Payments</h2>
+<p>This feature provides you with a safe and secure way to store your customer’s payment information. Letting customers to save their credit card information is a must have for every store because it allows you to:</p>
+<ul style="padding-left: 30px">
+<li>Rebill customers for products or your services automatically</li>
+<li>Save time spent on invoicing and billing, reducing payment processing costs</li>
+<li><strong>Increase conversion for impulse purchases</strong> – Once customers add product to their shopping cart, the checkout process is streamlined. It’s effortless for customers to go from I want to I bought.</li>
+</ul>
+<h2 style="color: #f69000"><strong>Bonus!</strong> Great Customer Service</h2>
+<p>We’ve added great customer service to this list as a bonus because it’s not quite a feature but is just as important. When selecting a payment provider, it’s important keep in mind that this is a long term relationship. Make sure they offer your preferred form of communication. For example, if you like speaking to customer service agents over the phone, check to see they offer phone support. The same goes for language. Ensure you can get help in a language you speak.</p>
+<hr align="left" width="20%" />
+<p>Looking for a payment processor that has all these must-haves features? Check out PrestaShop partner, <a href="http://addons.prestashop.com/en/payments-gateways-prestashop-modules/8943-realexredirect.html">Realex Payments</a>, a company processing over €28 billion annually for over 12,500 online retailers, across 30 countries, including some of the world’s leading brands – Vodafone, Aer Lingus and Virgin Atlantic. In addition to having each feature in our must-have list, they also offer:</p>
+<ul style="padding-left: 30px">
+<li>A responsive hosted payment page</li>
+<li>Dynamic currency conversion</li>
+<li>Proprietary fraud scoring and pattern analysis tool</li>
+<li>Detailed transaction logs</li>
+<li>Customizable sub-account rules.</li>
+</ul>
+<p>Learn more by <a href="https://www.prestashop.com/en/industry-partners/payment/realex-payments">visiting our website</a> or jump right in and start accepting online payments by <a href="http://addons.prestashop.com/en/payments-gateways-prestashop-modules/8943-realexredirect.html">downloading their module</a>.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/3-must-features-great-payment-processor/">3 Must-Have Features in a great Payment Processor</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/3-must-features-great-payment-processor/feed/</wfw:commentRss>
+		<slash:comments>1</slash:comments>
+		</item>
+		<item>
+		<title>8 Google Analytics Ecommerce Dashboards</title>
+		<link>https://www.prestashop.com/blog/en/8-google-analytics-ecommerce-dashboards/</link>
+		<comments>https://www.prestashop.com/blog/en/8-google-analytics-ecommerce-dashboards/#comments</comments>
+		<pubDate>Mon, 16 Feb 2015 13:30:59 +0000</pubDate>
+		<dc:creator><![CDATA[Kunle Campbell (Guest Contributor)]]></dc:creator>
+				<category><![CDATA[Ecommerce Tips and Advice]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19590</guid>
+		<description><![CDATA[<p>Google Analytics offers a treasure trove of traffic and conversion data geared to helping you better understand onsite shopping behavior, traffic referrals and conversions in your store. But getting the most out of this data requires some organization. One of my favorite tools to retrieve insights quickly and clearly is ‘Dashboards’. Today I’m going to [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/8-google-analytics-ecommerce-dashboards/">8 Google Analytics Ecommerce Dashboards</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Google Analytics offers a treasure trove of traffic and conversion data geared to helping you better understand onsite shopping behavior, traffic referrals and conversions in your store. But getting the most out of this data requires some organization. One of my favorite tools to retrieve insights quickly and clearly is ‘Dashboards’. Today I’m going to introduce you to 8 of my favorite dashboards.<br />
+<span id="more-19590"></span></p>
+<h4 style="color: #ff9900">Get a handle on online store performance with dashboards</h4>
+<p><img class="alignleft wp-image-19591" style="text-align: center" alt="GA" src="http://www.prestashop.com/blog/en/files/2015/02/0.GA_.png" width="275" height="336" /></p>
+<p>Sifting through all your data to get to the most important traffic and conversion metrics is easy with Google Analytics’ Dashboards. They’re basically a collection of fully-customizable widgets that provide a quick glimpse into the most relevant report summaries right from your Google Analytics account.</p>
+<p>Dashboards enable ecommerce managers and marketers to:</p>
+<ul style="padding-left: 30px">
+<li>View metrics and reports regularly</li>
+<li>Share reports with key stakeholders – like your board, marketing team or CEO</li>
+<li>View reports with the flexibility to change date ranges and segments</li>
+</ul>
+<p>&nbsp;</p>
+<p>It’s worth noting that Google Analytics Dashboards:</p>
+<ul style="padding-left: 30px">
+<li>Support a maximum of 12 widgets (boxes) per report</li>
+<li>Are limited to a maximum of 10 rows per widget</li>
+<li>Gives each Analytics account an allowance of 20 dashboards.</li>
+</ul>
+<p>Here are 8 highly-recommended Dashboards specific to ecommerce and available free of charge from <a href="https://www.google.com/analytics/gallery/#posts/search/%3F_.type%3DDASHBOARD%26_.start%3D0/" target="_blank">Google Analytics’ Solution Gallery</a>:</p>
+<h2 style="color: #068cc9"><a style="font-family: 'Roboto Condensed', Tahoma, Verdana, sans-serif;font-size: 28px;color: #068cc9;text-decoration: underline" href="https://www.google.com/analytics/gallery/#posts/search/%3F_.viewId%3DfJa880IAQseTLF0SddcsmQ" target="_blank">1. Ecommerce Dashboard</a></h2>
+<p>By Blast Analytics &amp; Marketing</p>
+<p><img class="aligncenter size-large wp-image-19592" alt="Ecommerce Dashboard By Blast Analytics Marketing" src="http://www.prestashop.com/blog/en/files/2015/02/1.-Ecommerce-Dashboard-By-Blast-Analytics-Marketing-1024x522.png" width="700" height="356" /></p>
+<p>This dashboard is a great point of reference at the start of a work week or at the end of the month. It summaries key metrics such as:</p>
+<ul style="padding-left: 30px">
+<li>Visits</li>
+<li>Visits and product revenue by mobile (including tablet)</li>
+<li>Visits and product revenue by source / medium</li>
+<li>Ecommerce conversion rates</li>
+<li>Total revenue</li>
+<li>Transactions</li>
+<li>Average order value</li>
+<li>Per visit value</li>
+<li>Top 10 products by revenue</li>
+</ul>
+<p>It enables you to track performance as well as understand top-converting traffic channels and best-selling products.</p>
+<h2 style="color: #068cc9"><a style="font-family: 'Roboto Condensed', Tahoma, Verdana, sans-serif;font-size: 28px;color: #068cc9;text-decoration: underline" href="https://www.google.com/analytics/gallery/#posts/search/%3F_.viewId%3D8USYBWAaQ5eDjl_XaKeLmQ" target="_blank">2. Mobile Ecommerce Dashboard</a></h2>
+<p>By Justin Cutroni</p>
+<p><img class="aligncenter size-large wp-image-19593" alt="Mobile Ecommerce Dashboard  By Justin Cutroni" src="http://www.prestashop.com/blog/en/files/2015/02/2.-Mobile-Ecommerce-Dashboard-By-Justin-Cutroni--1024x552.png" width="700" height="377" /></p>
+<p>If you want to understand mobile visitor behavior, this Dashboard will give you the insight you need.<br />
+Its widgets include:</p>
+<ul style="padding-left: 30px">
+<li>Revenue from mobile traffic</li>
+<li>Top performing mobile campaigns (requires UTM tagging)</li>
+<li>Organic keywords from mobile devices</li>
+<li>Bounce rate vs Average session</li>
+<li>Top pages from mobile devices</li>
+<li>Mobile revenue and Average order value (AOV)</li>
+<li>Top products purchased from mobile devices</li>
+</ul>
+<h2 style="color: #068cc9"><a style="font-family: 'Roboto Condensed', Tahoma, Verdana, sans-serif;font-size: 28px;color: #068cc9;text-decoration: underline" href="https://www.google.com/analytics/gallery/#posts/search/%3F_.viewId%3DoMS4jWBURDG4J9RakRx5-Q" target="_blank">3. Ecommerce SEO Dashboard</a></h2>
+<p>By Vagelis Varfis | Nudge Digital</p>
+<p><img class="aligncenter size-large wp-image-19601" alt="Ecommerce SEO Dashboard" src="http://www.prestashop.com/blog/en/files/2015/02/3.-Ecommerce-SEO-Dashboard-1024x602.png" width="700" height="411" /></p>
+<p>Ecommerce SEOs will love this keyword-focused dashboard. But bear in mind that 80-90 per cent of the time, organic SEO keyword traffic is ‘not provided”, so the keyword data provided here is based on a sample size. In order to get more complete insights, it’s best to use this data in combination with Google Webmaster Tools.</p>
+<p>In addition to 4 widgets dedicated to traffic and revenue, this dashboard includes helpful SEO- specific widgets such as:</p>
+<ul style="padding-left: 30px">
+<li>Search engines leading to transactions (non brand)</li>
+<li>Traffic sources leading to transactions (non brand)</li>
+<li>Revenue generating non-brand organic keywords (requires configuration)</li>
+<li>Non-brand organic search keywords with the highest Average Order Value (requires configuration)</li>
+<li>Most popular non brand organic search terms</li>
+<li>Internal search terms that have generated revenue</li>
+</ul>
+<h2 style="color: #068cc9"><a style="font-family: 'Roboto Condensed', Tahoma, Verdana, sans-serif;font-size: 28px;color: #068cc9;text-decoration: underline" href="https://www.google.com/analytics/gallery/#posts/search/%3F_.viewId%3DijKy1DMRQSuqjek-w4WfHQ" target="_blank">4. [DP6] Paid Search Campaigns</a></h2>
+<p>By Thiago Doin (@thiagodoin)</p>
+<p><img class="aligncenter size-large wp-image-19594" alt="[DP6] Paid Search Campaigns  By Thiago Doin (@thiagodoin)" src="http://www.prestashop.com/blog/en/files/2015/02/4.-DP6-Paid-Search-Campaigns-By-Thiago-Doin-@thiagodoin--1024x540.png" width="700" height="369" /></p>
+<p>This dashboard is great for tracking AdWords performance at a single glance. Originally produced in Portuguese, you can display labels in any language. Widgets include:</p>
+<ul style="padding-left: 30px">
+<li>Revenue from AdWords</li>
+<li>AdWords spend</li>
+<li>Transactions, CPA &amp; conversions</li>
+<li>Visits from AdWords</li>
+<li>Top 10 regions that made purchases via AdWords</li>
+<li>Top 10 products purchased via AdWords</li>
+</ul>
+<h2 style="color: #068cc9"><a style="font-family: 'Roboto Condensed', Tahoma, Verdana, sans-serif;font-size: 28px;color: #068cc9;text-decoration: underline" href="https://www.google.com/analytics/gallery/#posts/search/%3F_.viewId%3D9pw2EKPSRBqpVQ2iMcoB1g" target="_blank">5. Traffic Growth Dashboard</a></h2>
+<p>By Cemal Buyukgokcesu</p>
+<p><img class="aligncenter size-large wp-image-19595" alt="Engagement &amp; Loyalty Dashboard, Traffic Growth Dashboard  By Cemal Buyukgokcesu" src="http://www.prestashop.com/blog/en/files/2015/02/5.-Engagement-Loyalty-Dashboard-Traffic-Growth-Dashboard-By-Cemal-Buyukgokcesu--1024x548.png" width="700" height="374" /></p>
+<p>The traffic growth dashboard gives a complete picture of traffic performance.<br />
+Widgets report:</p>
+<ul style="padding-left: 30px">
+<li>Data on visits</li>
+<li>Active visitors</li>
+<li>Traffic sources</li>
+<li>Traffic sources by geography</li>
+<li>Mobile OS traffic breakdown (iOS, Android or Windows)</li>
+<li>Traffic by mobile device</li>
+<li>Top 10 referring domains</li>
+<li>Top 10 social referrals.</li>
+</ul>
+<h2 style="color: #068cc9"><a style="font-family: 'Roboto Condensed', Tahoma, Verdana, sans-serif;font-size: 28px;color: #068cc9;text-decoration: underline" href="https://www.google.com/analytics/gallery/#posts/search/%3F_.viewId%3DerNMqvwYQIWKDiA7dkHbJQ" target="_blank">6. Social Media Dashboard</a></h2>
+<p>By Justin Cutroni</p>
+<p><img class="aligncenter size-large wp-image-19596" alt="Social Media Dashboard By Justin Cutroni" src="http://www.prestashop.com/blog/en/files/2015/02/6.-Social-Media-Dashboard-By-Justin-Cutroni--1024x550.png" width="700" height="375" /></p>
+<p>This dashboard provides a quick snapshot of traffic from social media referral. Its most insightful widgets are:</p>
+<ul style="padding-left: 30px">
+<li>On site social media actions</li>
+<li>Value of social media traffic</li>
+<li>Social media traffic from mobile devices</li>
+<li>Revenue and per visit value from social media</li>
+<li>Social traffic that ‘read an article’</li>
+</ul>
+<h2 style="color: #068cc9"><a style="font-family: 'Roboto Condensed', Tahoma, Verdana, sans-serif;font-size: 28px;color: #068cc9;text-decoration: underline" href="https://www.google.com/analytics/gallery/#posts/search/%3F_.viewId%3DpONDBX8LSseVK2Zq-WdVMw" target="_blank">7. Email Dashboard</a></h2>
+<p>By Blast Analytics &amp; Marketing</p>
+<p><img class="aligncenter size-large wp-image-19597" alt="Email Dashboard By Blast Analytics &amp; Marketing" src="http://www.prestashop.com/blog/en/files/2015/02/7.-Email-Dashboard-By-Blast-Analytics-Marketing--1024x561.png" width="700" height="383" /></p>
+<p>This dashboard is indispensable if you use email marketing to drive sales to your store (which you should!). The most useful widgets provide critical data about email marketing traffic such as:</p>
+<ul style="padding-left: 30px">
+<li>Email marketing revenue (based on last interaction attribution)</li>
+<li>Bounce rate of email traffic &#8211; to help track the effectiveness of your email copy and landing page</li>
+<li>A landing page report from email traffic only</li>
+<li>A country performance report &#8211; which you can change to ‘region’ if you only sell within a country</li>
+<li>Top revenue generating products via email marketing</li>
+<li>And if you UTM tag links in your email campaigns (which you should!), a widget provides a “top 10 email campaign” performance report</li>
+</ul>
+<h2 style="color: #068cc9"><a style="font-family: 'Roboto Condensed', Tahoma, Verdana, sans-serif;font-size: 28px;color: #068cc9;text-decoration: underline" href="https://www.google.com/analytics/gallery/#posts/search/%3F_.viewId%3D0iewn0tTTZ2dpJq3LNQwtA" target="_blank">8. All-in-one Ecommerce Dashboard</a></h2>
+<p>By Paolo Margari</p>
+<p><img class="aligncenter size-large wp-image-19598" alt="All-in-one Ecommerce Dashboard By Paolo Margari" src="http://www.prestashop.com/blog/en/files/2015/02/8.-All-in-one-Ecommerce-Dashboard-By-Paolo-Margari--1024x547.png" width="700" height="373" /></p>
+<p>Last but not least, the All-in-One Ecommerce Dashboard by Paolo Margari is an easy to understand dashboard that can be presented to non-technical stakeholders on your team, like your CEO or the board of directors.</p>
+<p>Here’s a summary of its simple and straightforward widgets:</p>
+<ul style="padding-left: 30px">
+<li>Unique number of visitors (users) or transactions</li>
+<li>Number of transactions</li>
+<li>Ecommerce conversion rate</li>
+<li>Total Revenue</li>
+<li>Average Order Value (<span style="font-style: italic">AOV</span>)</li>
+<li>Revenue breakdown by Device: <span style="font-style: italic">desktop, tablet and mobile</span></li>
+<li>Transaction and Conversion Rate breakdown by Device: <span style="font-style: italic">desktop, tablet and mobile</span></li>
+<li>Transaction by City</li>
+<li>Ecommerce Conversion rates by Medium and Device</li>
+<li>Transactions by Medium</li>
+<li>Sources and medium of revenue generating traffic</li>
+<li>Transactions and ecommerce conversion rate by Source / Medium</li>
+</ul>
+<p>On a final note, my advice for getting the most out of these dashboards is to always <a href="https://support.google.com/analytics/answer/1033867?hl=en-GB" target="_blank">UTM tag your campaigns</a>, as it enables medium and campaign sources to be tracked and reported accurately.</p>
+<p>Do you use dashboards? Let us know your favorites.</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/8-google-analytics-ecommerce-dashboards/">8 Google Analytics Ecommerce Dashboards</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/8-google-analytics-ecommerce-dashboards/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>February Staff Picks: 3 Free and Lovely Features to Help You Sell More</title>
+		<link>https://www.prestashop.com/blog/en/february-staff-picks-3-free-lovely-features-help-sell/</link>
+		<comments>https://www.prestashop.com/blog/en/february-staff-picks-3-free-lovely-features-help-sell/#comments</comments>
+		<pubDate>Tue, 10 Feb 2015 13:30:13 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[PrestaShop Partners]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/en/?p=19553</guid>
+		<description><![CDATA[<p>Is your shop ready for Valentine’s Days sales? If you’ve read our blog post titled, “10 Valentine’s Day ecommerce marketing ideas”, you’re probably all set. But are you sure? Ecommerce is booming industry that adapts quickly, giving merchants access to new features added regularly. Today we share with you three new and FREE PrestaShop modules. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/february-staff-picks-3-free-lovely-features-help-sell/">February Staff Picks: 3 Free and Lovely Features to Help You Sell More</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><img class="alignright size-full wp-image-19557" style="margin: 0" alt="staff picks" src="http://www.prestashop.com/blog/en/files/2015/02/staff-picks-1.png" width="200" height="155" /></p>
+<p>Is your shop ready for Valentine’s Days sales? If you’ve read our blog post titled, “<a href="https://www.prestashop.com/blog/en/10-valentines-day-e-commerce-marketing-ideas/" target="_blank">10 Valentine’s Day ecommerce marketing ideas</a>”, you’re probably all set.</p>
+<p>But are you sure? Ecommerce is booming industry that adapts quickly, giving merchants access to new features added regularly. Today we share with you three new and FREE PrestaShop modules. From marketing to payments, these come pre-integrated within your PrestaShop back-office, or are available for free at our Addons Marketplace. Check them out!</p>
+<p>You’ll find more about:</p>
+<p><strong style="color: #99cc00">LoyaltyLion</strong> - Create your loyalty program in minutes and keep customers coming back.<br />
+<strong style="color: #99cc00">Olark</strong> – Provide customer service through chat to increase sales.<br />
+<strong style="color: #99cc00">VT Payments</strong> – Reach over 1 billion cardholders  with over 4.5 billion UnionPay cards across 8 different currencies.<br />
+<span id="more-19553"></span></p>
+<h2 style="color: #008000">LoyaltyLion</h2>
+<p style="text-align: center"><a href="http://addons.prestashop.com/en/front-office-features-prestashop-modules/18684-olark.html" target="_blank"><img class="aligncenter  wp-image-19554" alt="loyaltylion" src="http://www.prestashop.com/blog/en/files/2015/02/loyaltylion.jpeg" width="282" height="240" /></a></p>
+<p style="font-style: italic;text-align: center">REWARD CUSTOMERS FOR REFERING FRIENDS AND OTHER ONSITE ACTIVITIES</p>
+<p><strong style="color: #ed2279">What it does:</strong> LoyaltyLion makes it easy for you to reward customers for making purchases, leaving reviews, creating an account, referring friends or simply visiting the website. Assign the number of points to reward for each activity and the voucher amounts that correspond. LoyaltyLion keeps track of the points customers collect and redeem.</p>
+<p><strong style="color: #ed2279">Why we love it:</strong> This not only helps you understand the behavior of your best customers, but it also makes them happy. Discover your most engaged customers, top spenders and biggest advocates. Use this information to retain key customers and personalize your communications.</p>
+<p><strong style="color: #ed2279">How it helps you sell more:</strong> Acquire new customers using the refer-a-friend feature. In two clicks your customers can refer their friends on Facebook, Twitter and via email. LoyaltyLion then tracks the success of these referrals. You’ll be able to see the revenue generated, new customers acquired and users who are referring and many more. Best of all, you engage your customers, inviting them to come back to earn more points.</p>
+<p class="text-center" style="font-style: italic"><a href="http://addons.prestashop.com/en/advertising-marketing-newsletter-modules/18137-loyaltylion.html" target="_blank">Start your free 14 day trial.</a><br />
+Or activate it directly through your PrestaShop Back Office &gt; Modules &gt; Advertising and Marketing</p>
+<h2 style="color: #008000">Olark</h2>
+<p style="text-align: center"><a href="http://addons.prestashop.com/en/front-office-features-prestashop-modules/18684-olark.html" target="_blank"><img class="aligncenter  wp-image-19555" alt="olark" src="http://www.prestashop.com/blog/en/files/2015/02/olark.jpeg" width="282" height="240" /></a></p>
+<p style="font-style: italic;text-align: center">CONNECT TO CUSTOMERS BY ANSWERING QUESTIONS INSTANTLY VIA LIVE CHAT</p>
+<p><strong style="color: #ed2279">What it does:</strong> Olark adds a tab at the bottom corner of every page of your online store encouraging customers to reach out if they have any questions. It also tracks customer interaction and summarizes the information on a user-friendly dashboard.</p>
+<p><strong style="color: #ed2279">Why we love it:</strong> Their comprehensive help center has everything you need to set up and get started with live chat. From how-to videos and in-depth product descriptions to weekly webinars, you will have endless resources at your fingertips. Olark also provides one-on-one help by chat during your on-boarding process, to make sure you are fully comfortable with all the functionalities it has to offer.</p>
+<p><strong style="color: #ed2279">How it helps you sell more:</strong> Chatting live with customers is an easy way to solve three common challenges merchants face: better understanding the customer, upselling to increase average orders. By instantly addressing customer question, you decrease turnover by making shopping easy for customers.</p>
+<p class="text-center" style="font-style: italic"><a href="http://addons.prestashop.com/en/front-office-features-prestashop-modules/18684-olark.html" target="_blank">Download the Free Module from PrestaShop Addons</a><br />
+Or activate it directly through your PrestaShop Back Office &gt; Modules &gt; Front Office Features</p>
+<h2 style="color: #008000">VT Payment</h2>
+<p style="text-align: center"><a href="http://addons.prestashop.com/en/payments-gateways-prestashop-modules/17682-vtpayment.html" target="_blank"><img class="aligncenter  wp-image-19556" alt="VT-Payment" src="http://www.prestashop.com/blog/en/files/2015/02/VT-Payment.jpg" width="282" height="240" /></a></p>
+<p style="font-style: italic;text-align: center">SELL ACROSS MULTIPLE ASIAN COUNTRIES WITH ONE PAYMENT SOLUTION</p>
+<p><strong style="color: #ed2279">What it does:</strong> VT Payment allows you to accept payments across many Asian countries through the UnionPay Online technology. They provide, efficient settlement, easy PrestaShop integration, fast registrations, and support multiple currencies.</p>
+<p><strong style="color: #ed2279">Why we love it:</strong> With just one module, you open your online shop’s doors to customers across a wider range of countries by accepting their preferred choice of currency. You don’t have to open a new account with each country you want to target, it is an all-in-one module that will make expanding your shop easier.</p>
+<p><strong style="color: #ed2279">How it helps you sell more:</strong> You can accepts the following currencies: USD, CNY (China), IDR (Indonesia), KRW (Korea), AUD (Australia), NZD (New Zealand), TWD (Taiwan), HKD (Hong Kong), and MOP (Macau). Opening up your shop to all these currencies and countries gives you exposure to  millions of potential customers, especially customers from China.</p>
+<p class="text-center" style="font-style: italic"><a href="http://addons.prestashop.com/en/payments-gateways-prestashop-modules/17682-vtpayment.html" target="_blank">Download the Free Module from PrestaShop Addons</a><br />
+Or activate it directly through your PrestaShop Back Office &gt; Modules &gt; Payments</p>
+<p>The post <a rel="nofollow" href="https://www.prestashop.com/blog/en/february-staff-picks-3-free-lovely-features-help-sell/">February Staff Picks: 3 Free and Lovely Features to Help You Sell More</a> appeared first on <a rel="nofollow" href="https://www.prestashop.com/blog/en">EN - Ecommerce blog by PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/en/february-staff-picks-3-free-lovely-features-help-sell/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

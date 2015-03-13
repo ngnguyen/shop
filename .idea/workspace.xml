@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f99cb3f7-1935-4555-b2b1-eee559645e12" name="Default" comment="" />
+    <ignored path="shop.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="shop" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="global.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/global.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.51549757" vertical-offset="109064" max-vertical-offset="166420">
+              <caret line="5469" column="1" selection-start-line="5469" selection-start-column="1" selection-end-line="5469" selection-end-column="1" />
+              <folding>
+                <element signature="e#137297#137830#2" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.inc.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/settings.inc.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.655172" vertical-offset="0" max-vertical-offset="440">
+              <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blockcontact.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1300">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Module.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/classes/module/Module.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="6621" max-vertical-offset="54120">
+              <caret line="361" column="11" selection-start-line="361" selection-start-column="11" selection-end-line="361" selection-end-column="11" />
+              <folding>
+                <marker date="1424775222000" expanded="true" signature="6526:6770" placeholder="SELECT m.`id..." />
+                <marker date="1424775222000" expanded="true" signature="8156:8263" placeholder="SELECT `id_m..." />
+                <marker date="1424775222000" expanded="true" signature="9598:9926" placeholder="INSERT INTO ..." />
+                <marker date="1424775222000" expanded="true" signature="9965:10293" placeholder="INSERT INTO ..." />
+                <marker date="1424775222000" expanded="true" signature="18499:18570" placeholder="SELECT `id_h..." />
+                <marker date="1424775222000" expanded="true" signature="18919:18994" placeholder="SELECT id_me..." />
+                <marker date="1424775222000" expanded="true" signature="19058:19112" placeholder="DELETE FROM ..." />
+                <marker date="1424775222000" expanded="true" signature="19159:19212" placeholder="DELETE FROM ..." />
+                <marker date="1424775222000" expanded="true" signature="19259:19307" placeholder="DELETE FROM ..." />
+                <marker date="1424775222000" expanded="true" signature="19463:19526" placeholder="DELETE FROM ..." />
+                <marker date="1424775222000" expanded="true" signature="19700:19756" placeholder="DELETE FROM ..." />
+                <marker date="1424775222000" expanded="true" signature="20750:20825" placeholder="SELECT `id_s..." />
+                <marker date="1424775222000" expanded="true" signature="22640:22720" placeholder="DELETE FROM ..." />
+                <marker date="1424775222000" expanded="true" signature="23549:23700" placeholder="..." />
+                <marker date="1424775222000" expanded="true" signature="23754:23802" placeholder="..." />
+                <marker date="1424775222000" expanded="true" signature="26136:26357" placeholder="SELECT hm.`i..." />
+                <marker date="1424775222000" expanded="true" signature="26478:26609" placeholder="SELECT MAX(`..." />
+                <marker date="1424775222000" expanded="true" signature="27761:27860" placeholder="DELETE FROM ..." />
+                <marker date="1424775222000" expanded="true" signature="28466:28576" placeholder="DELETE FROM ..." />
+                <marker date="1424775222000" expanded="true" signature="33260:33315" placeholder="SELECT `id_m..." />
+                <marker date="1424775222000" expanded="true" signature="35890:36155" placeholder="SELECT m.nam..." />
+                <marker date="1424775222000" expanded="true" signature="43358:43630" placeholder="SELECT m.id_..." />
+                <marker date="1424775222000" expanded="true" signature="43394:43414" placeholder="SELECT COUNT..." />
+                <marker date="1424775222000" expanded="true" signature="50781:50880" placeholder="SELECT * FRO..." />
+                <marker date="1424775222000" expanded="true" signature="51636:51677" placeholder="SELECT m.* F..." />
+                <marker date="1424775222000" expanded="true" signature="59639:59716" placeholder="SELECT `id_h..." />
+                <marker date="1424775222000" expanded="true" signature="59854:61154" placeholder="SELECT DISTI..." />
+                <marker date="1424775222000" expanded="true" signature="62260:62457" placeholder="SELECT hm.`i..." />
+                <marker date="1424775222000" expanded="true" signature="63788:64041" placeholder="SELECT `id_m..." />
+                <marker date="1424775222000" expanded="true" signature="64621:64779" placeholder="..." />
+                <marker date="1424775222000" expanded="true" signature="64669:64770" placeholder="..." />
+                <marker date="1424775222000" expanded="true" signature="64917:65096" placeholder="..." />
+                <marker date="1424775222000" expanded="true" signature="64986:65087" placeholder="..." />
+                <marker date="1424775222000" expanded="true" signature="65475:65601" placeholder="SELECT * FRO..." />
+                <marker date="1424775222000" expanded="true" signature="67423:67635" placeholder="SELECT COUNT..." />
+                <marker date="1424775222000" expanded="true" signature="67913:68022" placeholder="SELECT `id_m..." />
+                <marker date="1424775222000" expanded="true" signature="68309:68495" placeholder="SELECT COUNT..." />
+                <marker date="1424775222000" expanded="true" signature="74386:75274" placeholder="..." />
+                <marker date="1424775222000" expanded="true" signature="77091:77201" placeholder="SELECT `id_m..." />
+                <marker date="1424775222000" expanded="true" signature="78044:78211" placeholder="SELECT m.`id..." />
+                <marker date="1424775222000" expanded="true" signature="78510:78590" placeholder="SELECT `id_m..." />
+                <marker date="1424775222000" expanded="true" signature="79769:79922" placeholder="SELECT `posi..." />
+                <marker date="1424775222000" expanded="true" signature="80914:80976" placeholder="SELECT * FRO..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/homesliderpro/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="260" max-vertical-offset="13880">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/modules/blockcontact/nav.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="760">
+              <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/header.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1725" max-vertical-offset="2460">
+              <caret line="97" column="34" selection-start-line="97" selection-start-column="34" selection-end-line="97" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blockcontactinfos.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/modules/blockcontactinfos/blockcontactinfos.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="1260">
+              <caret line="39" column="47" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blocknewsletter.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="473" max-vertical-offset="1960">
+              <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="blockcontactinfos.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/blockcontactinfos/blockcontactinfos.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="379" max-vertical-offset="860">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/defines.inc.php" />
+        <option value="$PROJECT_DIR$/modules/homesliderpro/css/styles.css" />
+        <option value="$PROJECT_DIR$/themes/default-bootstrap/header.tpl" />
+        <option value="$PROJECT_DIR$/modules/blockcontact/nav.tpl" />
+        <option value="$PROJECT_DIR$/themes/default-bootstrap/modules/blockcontact/nav.tpl" />
+        <option value="$PROJECT_DIR$/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css" />
+        <option value="$PROJECT_DIR$/themes/default-bootstrap/modules/blockcontactinfos/blockcontactinfos.tpl" />
+        <option value="$PROJECT_DIR$/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css" />
+        <option value="$PROJECT_DIR$/themes/default-bootstrap/css/global.css" />
+        <option value="$PROJECT_DIR$/config/settings.inc.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shop" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shop1" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f99cb3f7-1935-4555-b2b1-eee559645e12" name="Default" comment="" />
+      <created>1425876470978</created>
+      <option name="number" value="Default" />
+      <updated>1425876470978</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40519878" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18003026" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/modules/blockcontact/nav.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="196" max-vertical-offset="780">
+          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/blockcontact/translations/en.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="640">
+          <caret line="21" column="78" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/modules/blockcontactinfos/blockcontactinfos.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="429" max-vertical-offset="1180">
+          <caret line="33" column="67" selection-start-line="33" selection-start-column="67" selection-end-line="33" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/blockcontactinfos/blockcontactinfos.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="379" max-vertical-offset="860">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="109023" max-vertical-offset="166400">
+          <caret line="5465" column="20" selection-start-line="5465" selection-start-column="20" selection-end-line="5465" selection-end-column="20" />
+          <folding>
+            <element signature="e#137297#137830#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/homesliderpro/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="15840">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/homesliderpro/js/slidereverywhere.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="28580" max-vertical-offset="29380">
+          <caret line="1433" column="0" selection-start-line="1433" selection-start-column="0" selection-end-line="1433" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/homesliderpro/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="32" max-vertical-offset="13820">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin297pj1ig8/themes/default/css/admin-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="320">
+          <caret line="3" column="14823" selection-start-line="3" selection-start-column="14823" selection-end-line="3" selection-end-column="14823" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin297pj1ig8/themes/default/css/admin-theme_rtl.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="320">
+          <caret line="3" column="14643" selection-start-line="3" selection-start-column="14643" selection-end-line="3" selection-end-column="14643" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/modules/blockcontact/nav.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="760">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache/smarty/compile/c4/30/86/c430865c7cd9aced320476ab9ef4912b20122e95.file.header.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1008" max-vertical-offset="3440">
+          <caret line="58" column="2" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg-grey.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1628" max-vertical-offset="2460">
+          <caret line="88" column="35" selection-start-line="88" selection-start-column="35" selection-end-line="88" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/settings.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="440">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="160" max-vertical-offset="4660">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/defines.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="3620">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="109023" max-vertical-offset="166400">
+          <caret line="5465" column="20" selection-start-line="5465" selection-start-column="20" selection-end-line="5465" selection-end-column="20" />
+          <folding>
+            <element signature="e#137297#137830#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/homesliderpro/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="15840">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/homesliderpro/js/slidereverywhere.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="28580" max-vertical-offset="29380">
+          <caret line="1433" column="0" selection-start-line="1433" selection-start-column="0" selection-end-line="1433" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/homesliderpro/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13820">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache/smarty/compile/c4/30/86/c430865c7cd9aced320476ab9ef4912b20122e95.file.header.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1008" max-vertical-offset="3440">
+          <caret line="58" column="2" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg-grey.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1628" max-vertical-offset="2460">
+          <caret line="88" column="35" selection-start-line="88" selection-start-column="35" selection-end-line="88" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/settings.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="440">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="160" max-vertical-offset="4660">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/defines.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3620">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="160" max-vertical-offset="4660">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/defines.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="3620">
+          <caret line="37" column="4" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/bg-grey.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/date.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.347607" vertical-offset="2820" max-vertical-offset="9440">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cache/smarty/compile/c4/30/86/c430865c7cd9aced320476ab9ef4912b20122e95.file.header.tpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1008" max-vertical-offset="3440">
+          <caret line="58" column="2" selection-start-line="58" selection-start-column="2" selection-end-line="58" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/homesliderpro/js/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="15840">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/homesliderpro/js/slidereverywhere.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="28580" max-vertical-offset="29380">
+          <caret line="1433" column="0" selection-start-line="1433" selection-start-column="0" selection-end-line="1433" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/blockcontact/translations/en.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="420" max-vertical-offset="640">
+          <caret line="21" column="78" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin297pj1ig8/themes/default/css/admin-theme_rtl.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09787928" vertical-offset="0" max-vertical-offset="613">
+          <caret line="3" column="14643" selection-start-line="3" selection-start-column="14643" selection-end-line="3" selection-end-column="14643" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin297pj1ig8/themes/default/css/admin-theme.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.09787928" vertical-offset="0" max-vertical-offset="613">
+          <caret line="3" column="14823" selection-start-line="3" selection-start-column="14823" selection-end-line="3" selection-end-column="14823" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/admin/AdminGeolocationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="159" max-vertical-offset="2800">
+          <caret line="36" column="29" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/modules/blockcontact/blockcontact.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6232877" vertical-offset="416" max-vertical-offset="1000">
+          <caret line="39" column="69" selection-start-line="39" selection-start-column="69" selection-end-line="39" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/blockcontact/nav.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="760">
+          <caret line="29" column="52" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/modules/blockcontact/nav.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="760">
+          <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/homesliderpro/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="260" max-vertical-offset="13880">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/blockcontactinfos/blockcontactinfos.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="379" max-vertical-offset="860">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/modules/blockcontact/blockcontact.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1300">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classes/module/Module.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6621" max-vertical-offset="54120">
+          <caret line="361" column="11" selection-start-line="361" selection-start-column="11" selection-end-line="361" selection-end-column="11" />
+          <folding>
+            <marker date="1424775222000" expanded="true" signature="6526:6770" placeholder="SELECT m.`id..." />
+            <marker date="1424775222000" expanded="true" signature="8156:8263" placeholder="SELECT `id_m..." />
+            <marker date="1424775222000" expanded="true" signature="9598:9926" placeholder="INSERT INTO ..." />
+            <marker date="1424775222000" expanded="true" signature="9965:10293" placeholder="INSERT INTO ..." />
+            <marker date="1424775222000" expanded="true" signature="18499:18570" placeholder="SELECT `id_h..." />
+            <marker date="1424775222000" expanded="true" signature="18919:18994" placeholder="SELECT id_me..." />
+            <marker date="1424775222000" expanded="true" signature="19058:19112" placeholder="DELETE FROM ..." />
+            <marker date="1424775222000" expanded="true" signature="19159:19212" placeholder="DELETE FROM ..." />
+            <marker date="1424775222000" expanded="true" signature="19259:19307" placeholder="DELETE FROM ..." />
+            <marker date="1424775222000" expanded="true" signature="19463:19526" placeholder="DELETE FROM ..." />
+            <marker date="1424775222000" expanded="true" signature="19700:19756" placeholder="DELETE FROM ..." />
+            <marker date="1424775222000" expanded="true" signature="20750:20825" placeholder="SELECT `id_s..." />
+            <marker date="1424775222000" expanded="true" signature="22640:22720" placeholder="DELETE FROM ..." />
+            <marker date="1424775222000" expanded="true" signature="23549:23700" placeholder="..." />
+            <marker date="1424775222000" expanded="true" signature="23754:23802" placeholder="..." />
+            <marker date="1424775222000" expanded="true" signature="26136:26357" placeholder="SELECT hm.`i..." />
+            <marker date="1424775222000" expanded="true" signature="26478:26609" placeholder="SELECT MAX(`..." />
+            <marker date="1424775222000" expanded="true" signature="27761:27860" placeholder="DELETE FROM ..." />
+            <marker date="1424775222000" expanded="true" signature="28466:28576" placeholder="DELETE FROM ..." />
+            <marker date="1424775222000" expanded="true" signature="33260:33315" placeholder="SELECT `id_m..." />
+            <marker date="1424775222000" expanded="true" signature="35890:36155" placeholder="SELECT m.nam..." />
+            <marker date="1424775222000" expanded="true" signature="43358:43630" placeholder="SELECT m.id_..." />
+            <marker date="1424775222000" expanded="true" signature="43394:43414" placeholder="SELECT COUNT..." />
+            <marker date="1424775222000" expanded="true" signature="50781:50880" placeholder="SELECT * FRO..." />
+            <marker date="1424775222000" expanded="true" signature="51636:51677" placeholder="SELECT m.* F..." />
+            <marker date="1424775222000" expanded="true" signature="59639:59716" placeholder="SELECT `id_h..." />
+            <marker date="1424775222000" expanded="true" signature="59854:61154" placeholder="SELECT DISTI..." />
+            <marker date="1424775222000" expanded="true" signature="62260:62457" placeholder="SELECT hm.`i..." />
+            <marker date="1424775222000" expanded="true" signature="63788:64041" placeholder="SELECT `id_m..." />
+            <marker date="1424775222000" expanded="true" signature="64621:64779" placeholder="..." />
+            <marker date="1424775222000" expanded="true" signature="64669:64770" placeholder="..." />
+            <marker date="1424775222000" expanded="true" signature="64917:65096" placeholder="..." />
+            <marker date="1424775222000" expanded="true" signature="64986:65087" placeholder="..." />
+            <marker date="1424775222000" expanded="true" signature="65475:65601" placeholder="SELECT * FRO..." />
+            <marker date="1424775222000" expanded="true" signature="67423:67635" placeholder="SELECT COUNT..." />
+            <marker date="1424775222000" expanded="true" signature="67913:68022" placeholder="SELECT `id_m..." />
+            <marker date="1424775222000" expanded="true" signature="68309:68495" placeholder="SELECT COUNT..." />
+            <marker date="1424775222000" expanded="true" signature="74386:75274" placeholder="..." />
+            <marker date="1424775222000" expanded="true" signature="77091:77201" placeholder="SELECT `id_m..." />
+            <marker date="1424775222000" expanded="true" signature="78044:78211" placeholder="SELECT m.`id..." />
+            <marker date="1424775222000" expanded="true" signature="78510:78590" placeholder="SELECT `id_m..." />
+            <marker date="1424775222000" expanded="true" signature="79769:79922" placeholder="SELECT `posi..." />
+            <marker date="1424775222000" expanded="true" signature="80914:80976" placeholder="SELECT * FRO..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/modules/blockcontactinfos/blockcontactinfos.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="555" max-vertical-offset="1260">
+          <caret line="39" column="47" selection-start-line="39" selection-start-column="47" selection-end-line="39" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/modules/blocknewsletter/blocknewsletter.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="473" max-vertical-offset="1960">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1725" max-vertical-offset="2460">
+          <caret line="97" column="34" selection-start-line="97" selection-start-column="34" selection-end-line="97" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/settings.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.655172" vertical-offset="0" max-vertical-offset="440">
+          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/default-bootstrap/css/global.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.51549757" vertical-offset="109064" max-vertical-offset="166420">
+          <caret line="5469" column="1" selection-start-line="5469" selection-start-column="1" selection-end-line="5469" selection-end-column="1" />
+          <folding>
+            <element signature="e#137297#137830#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
